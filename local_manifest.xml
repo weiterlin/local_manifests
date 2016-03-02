@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Samsung Galaxy Note 2 LTE (T0LTE) -->
+    <project path="kernel/samsung/smdk4412" name="cyanogenmod/android_kernel_samsung_smdk4412" remote="github" revision="cm-12.1"/>
+    <project path="device/samsung/t0lte" name="cyanogenmod/android_device_samsung_t0lte" remote="github" revision="cm-12.1"/>
+    <project path="device/samsung/smdk4412-common" name="cyanogenmod/android_device_samsung_smdk4412-common" remote="github" revision="cm-12.1"/>
+    <project path="device/samsung/smdk4412-qcom-common" name="cyanogenmod/android_device_samsung_smdk4412-qcom-common" remote="github" revision="cm-12.1"/>
+    <project path="hardware/samsung" name="cyanogenmod/android_hardware_samsung" remote="github" revision="cm-12.1"/>
+    <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" remote="github" revision="cm-12.1" />
+</manifest>
